@@ -11,7 +11,7 @@ The application asks for your **Name, Date, Time, and Place of Birth**, after wh
 
 ---
 
-## ???? Features
+## Features
 
 - Stores **user details**: Name, DOB, Time of Birth, Birthplace
 - Calculates:
