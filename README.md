@@ -24,3 +24,4 @@ The application asks for your **Name, Date, Time, and Place of Birth**, after wh
 - Clean UI using Streamlit  
 
 ---
+Demo Link: https://www.loom.com/share/6429912688b0483f88c949a438c947f2?sid=9a508981-c337-46c0-af73-2b70d97eb6a6
